@@ -1,0 +1,17 @@
+h1 {
+  color: chocolate;
+  text-align: center;
+  font-style: italic;
+  background-color: coral;
+  width: 30%;
+  margin: 0 auto;
+}
+
+form {
+  padding: 30px;
+  text-align: center;
+}
+
+body {
+  background-color: bisque;
+}
